@@ -1,2 +1,2 @@
-Starbucks Hopepage
+Starbucks Homepage
 
